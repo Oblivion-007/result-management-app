@@ -1,0 +1,44 @@
+{
+  "result": [
+    {
+      "reg": "2019UGEC050",
+      "name": "Sourav",
+      "physics": "1",
+      "chemistry": "1",
+      "maths": "1",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "reg": "2019UGEC051",
+      "name": "ankit",
+      "physics": "31",
+      "maths": "31",
+      "chemistry": "31"
+    },
+    {
+      "id": "cc5f963c-b172-42ab-89f6-0502e31ee423",
+      "reg": "2019UGEC100",
+      "name": "fsf",
+      "maths": "3",
+      "physics": "23",
+      "chemistry": "232"
+    },
+    {
+      "reg": "2019UGEC045",
+      "name": "Kuldeep Mahour",
+      "physics": "-100",
+      "chemistry": "-100",
+      "maths": "-100",
+      "id": "ac842d6b-5693-4cd6-bc55-9700cc968d26"
+    },
+    {
+      "reg": "2019UGEC001",
+      "name": "Chirag Agrawal",
+      "physics": "99",
+      "chemistry": "99",
+      "maths": "99",
+      "id": "c9d8a9e3-085a-4287-be8d-58e3ee873fe8"
+    }
+  ]
+}
